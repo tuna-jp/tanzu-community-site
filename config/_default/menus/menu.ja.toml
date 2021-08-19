@@ -1,31 +1,41 @@
 [[main]]
-  name = "Home"
+  name = "TOP"
   url = ""
   weight = -110
 
 [[main]]
-  name = "Archives"
+  name = "TUNAとは"
   url = "post/rich-content/"
   weight = -109
 
-# Submenus are done this way: parent -> identifier
 [[main]]
-  name = "Links"
-  identifier = "Links"
+  name = "イベント"
+  url = "post/rich-content/"
   weight = -108
-[[main]]
-  parent = "Links"
-  name = "LinkedIn"
-  url = "https://www.linkedin.com/"
-[[main]]
-  parent = "Links"
-  name = "Twitter"
-  url = "https://twitter.com/"
 
 [[main]]
-  name = "About"
-  url = "about/"
+  name = "ブログ"
+  url = "post/rich-content/"
   weight = -107
+
+# Submenus are done this way: parent -> identifier
+#[[main]]
+#  name = "Links"
+#  identifier = "Links"
+#  weight = -108
+#[[main]]
+#  parent = "Links"
+#  name = "LinkedIn"
+#  url = "https://www.linkedin.com/"
+#[[main]]
+#  parent = "Links"
+#  name = "Twitter"
+#  url = "https://twitter.com/"
+
+#[[main]]
+#  name = "About"
+#  url = "about/"
+#  weight = -107
 
 # social menu links
 

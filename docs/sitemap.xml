@@ -2,9 +2,14 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
-    <loc>https://tuna-jp.github.io/tanzu-community-site/en/sitemap.xml</loc>
+    <loc>https://tuna-jp.github.io/tanzu-community-site/ja/sitemap.xml</loc>
     
       <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://tuna-jp.github.io/tanzu-community-site/en/sitemap.xml</loc>
     
   </sitemap>
   
@@ -12,11 +17,6 @@
     <loc>https://tuna-jp.github.io/tanzu-community-site/pt/sitemap.xml</loc>
     
       <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://tuna-jp.github.io/tanzu-community-site/jn/sitemap.xml</loc>
     
   </sitemap>
   

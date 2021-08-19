@@ -1,15 +1,15 @@
-[jn]
+[ja]
   title = "Tanzu User kNowledge Assembly Japan"
-  LanguageName = "English"
-  weight = 3
+  LanguageName = "Japanese"
+  weight = 1
 
 [en]
-  title = "Clarity"
+  title = "Tanzu User kNowledge Assemble Japan"
   LanguageName = "English"
-  weight = 1
+  weight = 2
 
 [pt]
   title = "Claridade" # just for the sake of showing this is possible
   LanguageName = "Português"
-  weight = 2
+  weight = 3
   
