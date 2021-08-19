@@ -11,6 +11,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="jn"
+                href="https://tuna-jp.github.io/tanzu-community-site/jn/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="pt"
                 href="https://tuna-jp.github.io/tanzu-community-site/pt/categories/"
                 />
@@ -21,6 +26,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://tuna-jp.github.io/tanzu-community-site/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jn"
+                href="https://tuna-jp.github.io/tanzu-community-site/jn/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -108,6 +118,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="jn"
+                href="https://tuna-jp.github.io/tanzu-community-site/jn/series/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="pt"
                 href="https://tuna-jp.github.io/tanzu-community-site/pt/series/"
                 />
@@ -121,6 +136,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://tuna-jp.github.io/tanzu-community-site/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jn"
+                href="https://tuna-jp.github.io/tanzu-community-site/jn/tags/"
                 />
     <xhtml:link
                 rel="alternate"
