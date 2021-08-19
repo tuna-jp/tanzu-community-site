@@ -5,17 +5,17 @@
 
 [[main]]
   name = "TUNAとは"
-  url = "post/rich-content/"
+  url = "about/"
   weight = -109
 
 [[main]]
   name = "イベント"
-  url = "post/rich-content/"
+  url = "event/"
   weight = -108
 
 [[main]]
   name = "ブログ"
-  url = "post/rich-content/"
+  url = "post/"
   weight = -107
 
 # Submenus are done this way: parent -> identifier

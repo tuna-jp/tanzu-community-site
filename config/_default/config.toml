@@ -1,7 +1,7 @@
 # set `baseurl` to your root domain
 # if you set it to "/" share icons won't work properly on production
 baseurl = "https://tuna-jp.github.io/tanzu-community-site/"  # Include trailing slash
-# title = "Clarity"  # Edit directly from config/_default/languages.toml # alternatively, uncomment this and remove `title` entry from the aforemention file.
+title = "Tanzu User kNowledge Assembly Japan"  # Edit directly from config/_default/languages.toml # alternatively, uncomment this and remove `title` entry from the aforemention file.
 copyright = "Copyright © 2021, Tanzu User kNowledge Assembly Japan ; all rights reserved."
 # canonifyurls = true
 paginate = 10

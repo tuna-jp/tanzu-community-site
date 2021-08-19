@@ -20,24 +20,6 @@
                 href="https://tuna-jp.github.io/tanzu-community-site/pt/categories/"
                 />
   </url><url>
-    <loc>https://tuna-jp.github.io/tanzu-community-site/pt/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://tuna-jp.github.io/tanzu-community-site/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tuna-jp.github.io/tanzu-community-site/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://tuna-jp.github.io/tanzu-community-site/pt/"
-                />
-  </url><url>
     <loc>https://tuna-jp.github.io/tanzu-community-site/pt/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -148,6 +130,24 @@
                 href="https://tuna-jp.github.io/tanzu-community-site/pt/tags/"
                 />
   </url><url>
+    <loc>https://tuna-jp.github.io/tanzu-community-site/pt/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://tuna-jp.github.io/tanzu-community-site/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tuna-jp.github.io/tanzu-community-site/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://tuna-jp.github.io/tanzu-community-site/pt/"
+                />
+  </url><url>
     <loc>https://tuna-jp.github.io/tanzu-community-site/pt/tags/temas/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
@@ -160,6 +160,11 @@
                 rel="alternate"
                 hreflang="ja"
                 href="https://tuna-jp.github.io/tanzu-community-site/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tuna-jp.github.io/tanzu-community-site/en/about/"
                 />
     <xhtml:link
                 rel="alternate"
