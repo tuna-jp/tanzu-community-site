@@ -11,7 +11,7 @@ other = "All Rights Reserved"
 other = "Share on"
 
 [featured_posts]
-other = "Featured Posts"
+other = "将来の投稿"
 
 [recent_posts]
 other = "最近の記事"
@@ -29,13 +29,13 @@ other = "Go Back"
 other = "Translations"
 
 [categories]
-other = "Categories"
+other = "カテゴリー"
 
 [tags]
 other = "タグ"
 
 [series]
-other = "Series"
+other = "シリーズ"
 
 [all_categories]
 other = "All Categories"

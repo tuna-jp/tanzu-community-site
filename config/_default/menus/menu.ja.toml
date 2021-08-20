@@ -1,6 +1,6 @@
 [[main]]
-  name = "TOP"
-  url = ""
+  name = "ホーム"
+  url = "home/"
   weight = -110
 
 [[main]]

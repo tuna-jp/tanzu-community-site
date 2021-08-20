@@ -16,6 +16,10 @@ DefaultContentLanguage = "ja"
 # config/_default/menus/menu.xx.toml
 
 publishDir="docs"
+
+[markup.goldmark.renderer]
+unsafe = true
+
 [taxonomies]
 category = "categories"
 tag = "tags"
