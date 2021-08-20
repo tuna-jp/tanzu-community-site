@@ -3,10 +3,10 @@
   LanguageName = "Japanese"
   weight = 1
   dateFormat = "2006年1月2日"
-[en]
+#[en]
 #  title = "Tanzu User kNowledge Assemble Japan"
-  LanguageName = "English"
-  weight = 2
+#  LanguageName = "English"
+#  weight = 2
 
 #[pt]
 #  title = "Claridade" # just for the sake of showing this is possible
