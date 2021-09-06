@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Tanzu User kNowledge Assembly Japan</title>
-    <link>https://tuna-jp.github.io/tanzu-community-site/pt/series/</link>
+    <link>https://tuna-jp.tech/pt/series/</link>
     <description>Recent content in Series on Tanzu User kNowledge Assembly Japan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright © 2021, Tanzu User kNowledge Assembly Japan ; all rights reserved.</copyright>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://tuna-jp.github.io/tanzu-community-site/pt/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://tuna-jp.tech/pt/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

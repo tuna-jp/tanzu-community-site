@@ -3,16 +3,16 @@
 	"file": "styles.css",
 	"sourceRoot": "/home/takayuki/project/community-site/tanzu-community-site",
 	"sources": [
-		"themes/hugo-clarity/assets/sass/main.sass",
-		"themes/hugo-clarity/assets/sass/_variables.sass",
-		"themes/hugo-clarity/assets/sass/_override.sass",
-		"themes/hugo-clarity/assets/sass/_fonts.sass",
-		"themes/hugo-clarity/assets/sass/_base.sass",
-		"themes/hugo-clarity/assets/sass/_components.sass",
-		"themes/hugo-clarity/assets/sass/_utils.sass",
-		"themes/hugo-clarity/assets/sass/_mobile.sass",
-		"themes/hugo-clarity/assets/sass/_syntax.sass",
-		"themes/hugo-clarity/assets/sass/_custom.sass"
+		"assets/sass/main.sass",
+		"assets/sass/_variables.sass",
+		"assets/sass/_override.sass",
+		"assets/sass/_fonts.sass",
+		"assets/sass/_base.sass",
+		"assets/sass/_components.sass",
+		"assets/sass/_utils.sass",
+		"assets/sass/_mobile.sass",
+		"assets/sass/_syntax.sass",
+		"assets/sass/_custom.sass"
 	],
 	"sourcesContent": [
 		"@import 'variables';\n@import 'override';\n@import 'fonts';\n@import 'base';\n@import 'components';\n@import 'utils';\n@import 'mobile';\n@import 'syntax';\n@import 'custom';\n",

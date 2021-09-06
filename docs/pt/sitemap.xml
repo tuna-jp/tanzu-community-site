@@ -2,174 +2,156 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://tuna-jp.github.io/tanzu-community-site/pt/categories/</loc>
+    <loc>https://tuna-jp.tech/pt/categories/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://tuna-jp.github.io/tanzu-community-site/categories/"
+                href="https://tuna-jp.tech/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://tuna-jp.github.io/tanzu-community-site/en/categories/"
+                href="https://tuna-jp.tech/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://tuna-jp.github.io/tanzu-community-site/pt/categories/"
+                href="https://tuna-jp.tech/pt/categories/"
                 />
   </url><url>
-    <loc>https://tuna-jp.github.io/tanzu-community-site/pt/tags/css/</loc>
+    <loc>https://tuna-jp.tech/pt/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://tuna-jp.github.io/tanzu-community-site/tags/css/"
+                href="https://tuna-jp.tech/tags/css/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://tuna-jp.github.io/tanzu-community-site/pt/tags/css/"
+                href="https://tuna-jp.tech/pt/tags/css/"
                 />
   </url><url>
-    <loc>https://tuna-jp.github.io/tanzu-community-site/pt/tags/destacado/</loc>
+    <loc>https://tuna-jp.tech/pt/tags/destacado/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tuna-jp.github.io/tanzu-community-site/pt/post/markdown-syntax/</loc>
+    <loc>https://tuna-jp.tech/pt/post/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://tuna-jp.github.io/tanzu-community-site/post/markdown-syntax/"
+                href="https://tuna-jp.tech/post/markdown-syntax/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://tuna-jp.github.io/tanzu-community-site/pt/post/markdown-syntax/"
+                href="https://tuna-jp.tech/pt/post/markdown-syntax/"
                 />
   </url><url>
-    <loc>https://tuna-jp.github.io/tanzu-community-site/pt/series/guia-de-temas/</loc>
+    <loc>https://tuna-jp.tech/pt/series/guia-de-temas/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tuna-jp.github.io/tanzu-community-site/pt/tags/html/</loc>
+    <loc>https://tuna-jp.tech/pt/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://tuna-jp.github.io/tanzu-community-site/tags/html/"
+                href="https://tuna-jp.tech/tags/html/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://tuna-jp.github.io/tanzu-community-site/pt/tags/html/"
+                href="https://tuna-jp.tech/pt/tags/html/"
                 />
   </url><url>
-    <loc>https://tuna-jp.github.io/tanzu-community-site/pt/tags/markdown/</loc>
+    <loc>https://tuna-jp.tech/pt/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://tuna-jp.github.io/tanzu-community-site/tags/markdown/"
+                href="https://tuna-jp.tech/tags/markdown/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://tuna-jp.github.io/tanzu-community-site/pt/tags/markdown/"
+                href="https://tuna-jp.tech/pt/tags/markdown/"
                 />
   </url><url>
-    <loc>https://tuna-jp.github.io/tanzu-community-site/pt/post/</loc>
+    <loc>https://tuna-jp.tech/pt/post/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://tuna-jp.github.io/tanzu-community-site/post/"
+                href="https://tuna-jp.tech/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://tuna-jp.github.io/tanzu-community-site/pt/post/"
+                href="https://tuna-jp.tech/pt/post/"
                 />
   </url><url>
-    <loc>https://tuna-jp.github.io/tanzu-community-site/pt/series/</loc>
+    <loc>https://tuna-jp.tech/pt/series/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://tuna-jp.github.io/tanzu-community-site/series/"
+                href="https://tuna-jp.tech/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://tuna-jp.github.io/tanzu-community-site/en/series/"
+                href="https://tuna-jp.tech/en/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://tuna-jp.github.io/tanzu-community-site/pt/series/"
+                href="https://tuna-jp.tech/pt/series/"
                 />
   </url><url>
-    <loc>https://tuna-jp.github.io/tanzu-community-site/pt/categories/sintaxe/</loc>
+    <loc>https://tuna-jp.tech/pt/categories/sintaxe/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tuna-jp.github.io/tanzu-community-site/pt/tags/</loc>
+    <loc>https://tuna-jp.tech/pt/tags/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://tuna-jp.github.io/tanzu-community-site/tags/"
+                href="https://tuna-jp.tech/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://tuna-jp.github.io/tanzu-community-site/en/tags/"
+                href="https://tuna-jp.tech/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://tuna-jp.github.io/tanzu-community-site/pt/tags/"
+                href="https://tuna-jp.tech/pt/tags/"
                 />
   </url><url>
-    <loc>https://tuna-jp.github.io/tanzu-community-site/pt/</loc>
+    <loc>https://tuna-jp.tech/pt/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://tuna-jp.github.io/tanzu-community-site/"
+                href="https://tuna-jp.tech/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://tuna-jp.github.io/tanzu-community-site/en/"
+                href="https://tuna-jp.tech/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://tuna-jp.github.io/tanzu-community-site/pt/"
+                href="https://tuna-jp.tech/pt/"
                 />
   </url><url>
-    <loc>https://tuna-jp.github.io/tanzu-community-site/pt/tags/temas/</loc>
+    <loc>https://tuna-jp.tech/pt/tags/temas/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tuna-jp.github.io/tanzu-community-site/pt/categories/temas/</loc>
+    <loc>https://tuna-jp.tech/pt/categories/temas/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tuna-jp.github.io/tanzu-community-site/pt/about/</loc>
-    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://tuna-jp.github.io/tanzu-community-site/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tuna-jp.github.io/tanzu-community-site/en/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://tuna-jp.github.io/tanzu-community-site/pt/about/"
-                />
   </url>
 </urlset>

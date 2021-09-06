@@ -2,90 +2,72 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://tuna-jp.github.io/tanzu-community-site/en/about/</loc>
-    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+    <loc>https://tuna-jp.tech/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://tuna-jp.github.io/tanzu-community-site/about/"
+                href="https://tuna-jp.tech/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://tuna-jp.github.io/tanzu-community-site/pt/about/"
+                href="https://tuna-jp.tech/pt/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://tuna-jp.github.io/tanzu-community-site/en/about/"
+                href="https://tuna-jp.tech/en/categories/"
                 />
   </url><url>
-    <loc>https://tuna-jp.github.io/tanzu-community-site/en/categories/</loc>
+    <loc>https://tuna-jp.tech/en/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://tuna-jp.github.io/tanzu-community-site/categories/"
+                href="https://tuna-jp.tech/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://tuna-jp.github.io/tanzu-community-site/pt/categories/"
+                href="https://tuna-jp.tech/pt/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://tuna-jp.github.io/tanzu-community-site/en/categories/"
+                href="https://tuna-jp.tech/en/series/"
                 />
   </url><url>
-    <loc>https://tuna-jp.github.io/tanzu-community-site/en/series/</loc>
+    <loc>https://tuna-jp.tech/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://tuna-jp.github.io/tanzu-community-site/series/"
+                href="https://tuna-jp.tech/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://tuna-jp.github.io/tanzu-community-site/pt/series/"
+                href="https://tuna-jp.tech/pt/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://tuna-jp.github.io/tanzu-community-site/en/series/"
+                href="https://tuna-jp.tech/en/tags/"
                 />
   </url><url>
-    <loc>https://tuna-jp.github.io/tanzu-community-site/en/tags/</loc>
+    <loc>https://tuna-jp.tech/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://tuna-jp.github.io/tanzu-community-site/tags/"
+                href="https://tuna-jp.tech/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://tuna-jp.github.io/tanzu-community-site/pt/tags/"
+                href="https://tuna-jp.tech/pt/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://tuna-jp.github.io/tanzu-community-site/en/tags/"
-                />
-  </url><url>
-    <loc>https://tuna-jp.github.io/tanzu-community-site/en/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://tuna-jp.github.io/tanzu-community-site/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://tuna-jp.github.io/tanzu-community-site/pt/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tuna-jp.github.io/tanzu-community-site/en/"
+                href="https://tuna-jp.tech/en/"
                 />
   </url>
 </urlset>

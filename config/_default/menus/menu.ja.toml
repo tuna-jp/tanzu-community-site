@@ -43,19 +43,19 @@
   name = "github"
   type = "social"
   weight = 1
-  url = "https://github.com/#"
+  url = "https://github.com/tuna-jp"
 [[social]]
   name = "twitter"
   weight = 2
-  url = "https://twitter.com/#"
-[[social]]
-  name = "linkedin"
-  weight = 3
-  url = "https://www.linkedin.com/in/#"
-[[social]]
-  name = "rss"
-  weight = 4
-  url = "index.xml"
+  url = "https://twitter.com/tuna19989210"
+#[[social]]
+#  name = "linkedin"
+#  weight = 3
+#  url = "https://www.linkedin.com/in/#"
+#[[social]]
+#  name = "rss"
+#  weight = 4
+#  url = "index.xml"
 
 # other supported social links
 # name = "youtube"
