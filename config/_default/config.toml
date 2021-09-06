@@ -22,6 +22,6 @@ publishDir="docs"
 unsafe = true
 
 [taxonomies]
-category = "categories"
+#category = "categories"
 tag = "tags"
-series = "series"
+#series = "series"
