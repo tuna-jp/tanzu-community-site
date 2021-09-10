@@ -2,40 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://tuna-jp.tech/en/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://tuna-jp.tech/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://tuna-jp.tech/pt/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tuna-jp.tech/en/categories/"
-                />
-  </url><url>
-    <loc>https://tuna-jp.tech/en/series/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://tuna-jp.tech/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://tuna-jp.tech/pt/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tuna-jp.tech/en/series/"
-                />
-  </url><url>
     <loc>https://tuna-jp.tech/en/tags/</loc>
     <xhtml:link
                 rel="alternate"

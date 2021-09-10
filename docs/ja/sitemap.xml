@@ -57,26 +57,11 @@
     <loc>https://tuna-jp.tech/post/test/</loc>
     <lastmod>2021-09-02T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://tuna-jp.tech/about/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://tuna-jp.tech/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tuna-jp.tech/categories/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://tuna-jp.tech/pt/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tuna-jp.tech/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://tuna-jp.tech/categories/"
-                />
   </url><url>
     <loc>https://tuna-jp.tech/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
@@ -133,34 +118,7 @@
                 href="https://tuna-jp.tech/post/markdown-syntax/"
                 />
   </url><url>
-    <loc>https://tuna-jp.tech/series/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://tuna-jp.tech/pt/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tuna-jp.tech/en/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://tuna-jp.tech/series/"
-                />
-  </url><url>
-    <loc>https://tuna-jp.tech/categories/syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://tuna-jp.tech/tags/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tuna-jp.tech/categories/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tuna-jp.tech/series/themes-guide/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tuna-jp.tech/tags/privacy/</loc>
@@ -185,9 +143,6 @@
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tuna-jp.tech/home/</loc>
-    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tuna-jp.tech/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tuna-jp.tech/event/</loc>
