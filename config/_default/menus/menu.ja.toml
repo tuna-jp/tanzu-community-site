@@ -1,12 +1,21 @@
 [[main]]
   name = "ホーム"
-  url = "home/"
+  url = "/"
   weight = -110
 
 [[main]]
   name = "TUNAとは"
+  identifier = "TUNA"
   url = "about/"
   weight = -109
+[[main]]
+  parent = "TUNA"
+  name = "TUNAとは"
+  url = "about/"
+[[main]]
+  parent = "TUNA"
+  name = "対象のOSS"
+  url = "about/oss/"
 
 [[main]]
   name = "イベント"
