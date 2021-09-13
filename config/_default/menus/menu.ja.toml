@@ -15,7 +15,7 @@
 [[main]]
   parent = "TUNA"
   name = "対象のOSS"
-  url = "about/oss/"
+  url = "oss/"
 
 [[main]]
   name = "イベント"

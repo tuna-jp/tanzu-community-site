@@ -1,9 +1,10 @@
 +++
 title = "開催予定のイベント"
 description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
+date = "2021-09-01"
 aliases = ["about-us", "about-hugo", "contact"]
 author = "Hugo Authors"
+sidebar = false
 +++
 
 開催予定のイベントについて
