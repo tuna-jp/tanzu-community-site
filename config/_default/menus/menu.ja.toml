@@ -4,13 +4,13 @@
   weight = -110
 
 [[main]]
-  name = "TUNAとは"
+  name = "TUNA-JPとは"
   identifier = "TUNA"
   url = "about/"
   weight = -109
 [[main]]
   parent = "TUNA"
-  name = "TUNAとは"
+  name = "TUNA-JPとは"
   url = "about/"
 [[main]]
   parent = "TUNA"
