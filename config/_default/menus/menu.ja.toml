@@ -5,15 +5,15 @@
 
 [[main]]
   name = "TUNA-JPとは"
-  identifier = "TUNA"
+  identifier = "TUNA-JP"
   url = "about/"
   weight = -109
 [[main]]
-  parent = "TUNA"
+  parent = "TUNA-JP"
   name = "TUNA-JPとは"
   url = "about/"
 [[main]]
-  parent = "TUNA"
+  parent = "TUNA-JP"
   name = "対象のOSS"
   url = "oss/"
 
