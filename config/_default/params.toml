@@ -57,6 +57,7 @@ enforceLightMode = false
 
 # customize footer icon. see issue https://github.com/chipzoller/hugo-clarity/issues/77
 # footerLogo = "icons/copy.svg"
+footerLogo = "icons/tuna-jp-footer-logo.svg"
 
 # Text for the languages menu.
 languageMenuName = "🌐"
