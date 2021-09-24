@@ -8,13 +8,13 @@ sidebar = false
 +++
 
 ###  TUNA-JPについて
-TUNA-JPとは、Tanzu Userver kNowledge Assembly Japanの略称で、TanzuのOSSを利用するユーザーのコミュニティです。
-勉強会やSlackでのコミュニケーションを通じて、TanzuのOSSについてユーザー同士が交流することがTUNA-JPの目的です。
+TUNA-JP とは、Tanzu Userver kNowledge Assembly Japan の略称で、Tanzu の OSS を利用するユーザーのコミュニティです。
+勉強会や Slack でのコミュニケーションを通じて、Tanzu の OSS についてユーザー同士が交流することが TUNA-JP の目的です。
 
 ### TUNA-JPに参加するには？
-TUNA-JPでの交流はSlackで行っています。
+TUNA-JP での交流は Slack で行っています。
 
-Slackへの参加はこちらから：
+Slack への参加はこちらから：
 {{< figure src="/images/about/240px-Slack-icon-2019.svg.png" alt=slack::round link="https://tuna-fsz4514.slack.com/" width=100 >}}
 
 イベントページから今後開催予定のイベントについてチェックしてください。
