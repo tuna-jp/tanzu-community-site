@@ -74,7 +74,3 @@ CarvelはKubernetesへのアプリケーションのビルド、設定、デプ�
 - {{< figure src="/images/about/oss/logo-robolectric.png" alt=Robolectric width=200 >}}
 RobolectricはAndoroidのためのユニットテストフレームワークです。
 [Github](https://github.com/robolectric/robolectric)
-- {{< figure src="/images/about/oss/logo-lfinder.png" alt="License Finder" width=200 >}}
-License Finderはプロジェクトコンポーネントのためにライセンス情報を収集します。
-[Github](https://github.com/pivotal/LicenseFinder)
-
