@@ -7,70 +7,83 @@ author = "Hugo Authors"
 sidebar = false
 +++
 
-### 対象のOSSについて
+TUNA-JP で主に対象とする OSS の一覧です。
+利用している OSS についての情報交換や交流が行って行きたいと思います。
+記載のない Tanzu が利用している OSS についても交流歓迎です。
 
-TUNA-JPで主に対象とするOSSの一覧です。
-利用しているOSSについての情報交換や交流が行って行きたいと思います。
-記載のないTanzuが利用しているOSSについても交流歓迎です。
+## Kubernetes
 
+{{< figure src="https://github.com/kubernetes/kubernetes/raw/master/logo/logo.png" alt=Kubernetes width=200 >}}
+[Website](https://kubernetes.io/) - [GitHub](https://github.com/kubernetes)
 
-- {{< figure src="/images/about/oss/Kubernetes-Logo.svg" alt=kubernetes width=200 >}}
-Kubernetesはデプロイの自動化、スケーリング、コンテナ化されたアプリケーションの管理のためのオープンソースシステムです。
-[website](https://kubernetes.io/) - [Github](https://github.com/kubernetes)
-- {{< figure src="/images/about/oss/Kubernetes-Logo.svg" alt=Buildpacks.io width=200 >}}
-BuidpacksはソースコードをOCIイメージに変換するツールです。
-[website](https://buildpacks.io/) - [Github](https://github.com/buildpack)
-- {{< figure src="/images/about/oss/harbor-horizontal-color.png" alt=HARBOR width=200 >}}
-HARBORはオープンソースのコンテナイメージレジストリです。
-[website](https://goharbor.io/) - [Github](https://github.com/goharbor)
-- {{< figure src="/images/about/oss/contour.svg" alt=CONTOUR width=200 >}}
-CONTUREはオープンソースのkubernetes ingressコントローラーです。
-[website](https://projectcontour.io/) - [Github](https://github.com/projectcontour/contour)
-- {{< figure src="/images/about/oss/spiffe-horizontal-color.png" alt=spiffe width=200 >}}
-Spiffeはthe Secure Production Identity Framework for Everyoneの略で、オープンソースのセキュアな認証ソフトウェアシステムです。
-[website](https://spiffe.io/)
-- {{< figure src="/images/about/oss/spire-horizontal-color.png" alt=SPIRE width=200 >}}
-SPIREはプロダクション環境に適用可能なSPIFFE APIsの実装です。
-[website](https://spiffe.io/docs/latest/spire-about/spire-concepts/)
-- {{< figure src="/images/about/oss/cluster.png" alt="Cluster API" width=200 >}}
-Cluster APIはクラスターの作成、設定、管理を行うための宣言的なKubernetesスタイルのAPIを使用するためのKubernetesプロジェクトです。
-[website](https://cluster-api.sigs.k8s.io/)
-- {{< figure src="/images/about/oss/logo-spring-color.svg" alt=spring width=200 >}}
-SpringはEnterprise Javaのための最も一般的な完全なアプリケーション開発フレームワークです。
-[website](https://spring.io/)
-- {{< figure src="/images/about/oss/logo-reactor.png" alt="Project Reactor" width=200 >}}
-Project ReactorはJVM上で稼働する非ブロックアプリケーションを作成するための４世代目のリアクティブライブラリーです。
-[website](https://projectreactor.io/) - [Github](https://github.com/reactor)
-- {{< figure src="/images/about/oss/logo-gpdb.svg" alt="GREENPLUM DATABASE" width=200 >}}
-Greenplum Database projectは先進的なすべての機能を持ったデータベースです。
-[website](https://greenplum.org/)
-- {{< figure src="/images/about/oss/logo-concourse.png" alt=concourse width=200 >}}
-ConcourseはCloud Foundryと使用するためのVMwareによって開発されたCI/CDツールです。
-[website](https://concourse-ci.org/)
-- {{< figure src="/images/about/oss/logo-steeltoe-no-logo.svg" alt=steeltoe width=200 >}}
-Steeltoeはオープンソースプロジェクトで、.NET開発者がクラウドのためのレジリエントなマイクロサービスを作成する際に使われます。
-[website](https://steeltoe.io/) - [Github](https://github.com/steeltoeoss)
-- {{< figure src="/images/about/oss/Velero.svg" alt=VELERO width=200 >}}
-Veleroは安全にバックアップ、リストアを行うためのオープンソースツールです。
-[website](https://kubernetes.io/) - [Github](https://github.com/kubernetes)
-- {{< figure src="/images/about/oss/Sonobuoy.svg" alt=SONOBUOY width=200 >}}
-SonobuoyはKuberntesクラスタの状態を簡単に取得するための分析ツールです。
-[website](https://sonobuoy.io/) - [Github](https://github.com/vmware-tanzu/sonobuoy/releases/tag/v0.53.2)
-- {{< figure src="/images/about/oss/octant-logo.png" alt=OCTANT width=200 >}}
-OctantはオープンソースのKubernetesのための開発者のためWebインターフェースです。
-[website](https://octant.dev/) - [Github](https://github.com/vmware-tanzu/octant/releases/tag/v0.24.0)
-- {{< figure src="/images/about/oss/antrea-logo.svg" alt=ANTREA width=200 >}}
-AntreaはOpen vSwitchに基づいたKubernetesネットワークソリューションです。
-[Github](https://github.com/antrea-io/antrea)
-- {{< figure src="/images/about/oss/logo-jasmine.png" alt=Jasmine width=200 >}}
-JasmineはJavaScriptのためのテストフレームワークです。
-[website](https://jasmine.github.io/) - [Github](https://github.com/jasmine/jasmine)
-- {{< figure src="/images/about/oss/pinniped-horizontal-color.png" alt=PINNIPED width=200 >}}
-PinnipedはKubernetesのユーザー認証を提供します。
-[website](https://pinniped.dev/) - [Github](https://github.com/vmware-tanzu/pinniped/releases)
-- {{< figure src="/images/about/oss/carvel-horizontal-color.svg" alt=CARVEL width=200 >}}
-CarvelはKubernetesへのアプリケーションのビルド、設定、デプロイを行うためのツールです。
-[website](https://carvel.dev/)
-- {{< figure src="/images/about/oss/logo-robolectric.png" alt=Robolectric width=200 >}}
-RobolectricはAndoroidのためのユニットテストフレームワークです。
-[Github](https://github.com/robolectric/robolectric)
+Kubernetes はデプロイの自動化、スケーリング、コンテナ化されたアプリケーションの管理のためのオープンソースシステムです。
+
+## Buildpacks
+
+{{< figure src="https://buildpacks.io/images/buildpacks-logo.svg" alt=Buildpacks width=200 >}}
+[Website](https://buildpacks.io/) - [GitHub](https://github.com/buildpack)
+
+Buildpacks はソースコードを OCI イメージに変換するツールです。
+
+## Harbor
+
+{{< figure src="https://goharbor.io/img/logos/harbor-horizontal-color.png" alt=Harbor width=200 >}}
+[Website](https://goharbor.io/) - [GitHub](https://github.com/goharbor)
+
+Harbor はオープンソースのコンテナイメージレジストリです。
+
+## Contour
+
+{{< figure src="https://d33wubrfki0l68.cloudfront.net/b92d8706535e6f2b71f90645fe9ab7b418fb8ca8/ea52e/img/contour.svg" alt=Contour width=200 >}}
+[Website](https://projectcontour.io/) - [GitHub](https://github.com/projectcontour/contour)
+
+Contour はオープンソースの Kubernetes Ingress コントローラーです。
+
+## Cluster API
+
+{{< figure src="https://cluster-api.sigs.k8s.io/images/introduction.png" alt="Cluster API" width=200 >}}
+[Website](https://cluster-api.sigs.k8s.io/)
+
+Cluster API はクラスターの作成、設定、管理を行うための宣言的な Kubernetes スタイルの API を使用するための Kubernetes プロジェクトです。
+
+## Velero
+
+{{< figure src="https://velero.io/img/Velero.svg" alt=Velero width=200 >}}
+[Website](https://velero.io/) - [GitHub](https://github.com/vmware-tanzu/velero)
+
+Velero は安全にバックアップ、リストアを行うためのオープンソースツールです。
+
+## Sonobuoy
+
+{{< figure src="https://sonobuoy.io/img/sonobuoy.svg" alt=Sonobuoy width=200 >}}
+[Website](https://sonobuoy.io/) - [GitHub](https://github.com/vmware-tanzu/sonobuoy)
+
+Sonobuoy は Kubernetes クラスタの状態を簡単に取得するための分析ツールです。
+
+## Octant
+
+{{< figure src="https://octant.dev/img/octant.svg" alt=Octant width=200 >}}
+[Website](https://octant.dev/) - [GitHub](https://github.com/vmware-tanzu/octant)
+
+Octant はオープンソースの Kubernetes のための開発者のため Web インターフェースです。
+
+## Antrea
+
+{{< figure src="https://antrea.io/img/antrea-logo.svg" alt=Antrea width=200 >}}
+[Website](https://antrea.io/) - [GitHub](https://github.com/antrea-io/antrea)
+
+Antrea は Open vSwitch を活用して実装された Kubernetes ネットワークソリューションです。
+
+## Pinniped
+
+{{< figure src="https://pinniped.dev/img/logo.svg" alt=Pinniped width=200 >}}
+[Website](https://pinniped.dev/) - [GitHub](https://github.com/vmware-tanzu/pinniped)
+
+Pinniped は Kubernetes のユーザー認証を提供します。
+
+## Carvel
+
+{{< figure src="https://carvel.dev/img/logo.svg" alt=Carvel width=200 >}}
+[Website](https://carvel.dev/) - [GitHub](https://github.com/vmware-tanzu/carvel)
+
+Carvel は Kubernetes へのアプリケーションのビルド、設定、デプロイを行うためのツールです。
