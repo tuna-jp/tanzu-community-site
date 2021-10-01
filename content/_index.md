@@ -8,7 +8,7 @@ description = "A theme based on VMware's Clarity Design System for publishing te
 
 TUNA-JPのコミュニティサイトです。
 
-TUNA-JPとは、Tanzu Userver kNowledge Assembly Japanの略称で、TanzuのOSSを利用するユーザーのコミュニティです。
+TUNA-JPとは、Tanzu User kNowledge Assembly Japanの略称で、TanzuのOSSを利用するユーザーのコミュニティです。
 勉強会やSlackでのコミュニケーションを通じて、TanzuのOSSについてユーザー同士が交流することがTUNA-JPの目的です。
 
 コミュニティへの参加については、
