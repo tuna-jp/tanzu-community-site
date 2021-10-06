@@ -1,8 +1,7 @@
 +++
 title = "TUNA-JP へようこそ"
 author = "Hugo Authors"
-description = "TUNA-JPとは、Tanzu User kNowledge Assembly Japanの略称で、TanzuのOSSを利用するユーザーのコミュニティです。
-勉強会やSlackでのコミュニケーションを通じて、TanzuのOSSについてユーザー同士が交流することがTUNA-JPの目的です。" # set your site's description here. will be use for home page content meta tags (seo).
+description = "TUNA-JPとは、Tanzu User kNowledge Assembly Japanの略称で、TanzuのOSSを利用するユーザーのコミュニティです。勉強会やSlackでのコミュニケーションを通じて、TanzuのOSSについてユーザー同士が交流することがTUNA-JPの目的です。"
 +++
 
 {{< figure src="/images/index/tunamark-tuna-jp-big.png" alt=slack  width=300 >}}
