@@ -16,8 +16,8 @@ TUNA-JP で主に対象とする OSS の一覧です。
 {{< figure src="https://tanzucommunityedition.io/img/TCE-logo.svg" alt="Tanzu Community Edition" width=400 >}}
 [Website](https://tanzucommunityedition.io/) - [GitHub](https://github.com/vmware-tanzu/community-edition)
 
-Tanzu Community Edition (TCE) は、VMware Tanzu のフル機能を利用可能であり、簡単に使い始めていただける Kubernetes プラットフォームです。
-一般的な Kubernetes ユーザーはもちろん、これから Kubernetes の学習を始める方でも、特にスモールな環境からスタートしたいという方にオススメです。
+Tanzu Community Edition (TCE) は、簡単に使い始められる Kubernetes プラットフォームです。
+一般的な Kubernetes ユーザーはもちろん、これから Kubernetes の学習を始める方でも、特にスモールな環境からスタートしたいというユーザー向けに開発されています。
 
 ## Kubernetes
 
