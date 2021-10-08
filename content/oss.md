@@ -11,6 +11,14 @@ TUNA-JP で主に対象とする OSS の一覧です。
 利用している OSS についての情報交換や交流が行って行きたいと思います。
 記載のない Tanzu が利用している OSS についても交流歓迎です。
 
+## Tanzu Community Edition
+
+{{< figure src="https://tanzucommunityedition.io/img/TCE-logo.svg" alt=Kubernetes width=400 >}}
+[Website](https://tanzucommunityedition.io/) - [GitHub](https://github.com/vmware-tanzu/community-edition)
+
+Tanzu Community Edition (TCE) は、VMware Tanzu のフル機能を利用可能であり、簡単に使い始めていただける Kubernetes プラットフォームです。
+一般的な Kubernetes ユーザーはもちろん、これから Kubernetes の学習を始める方でも、特にスモールな環境からスタートしたいという方にオススメです。
+
 ## Kubernetes
 
 {{< figure src="https://github.com/kubernetes/kubernetes/raw/master/logo/logo.png" alt=Kubernetes width=200 >}}
