@@ -1,9 +1,0 @@
-{{ define "main" }}
-  <div class="homepage grid-inverse wrap content">
-    <h1>TUNA-JP へようこそ</h1> 
-    <img src="/images/index/tunamark-tuna-jp-big.png" alt=log width=300>
-    <p>TUNA-JPのコミュニティサイトです。</p>
-    <p>TUNA-JPとは、Tanzu User kNowledge Assembly Japanの略称で、TanzuのOSSを利用するユーザーのコミュニティです。勉強会やSlackでのコミュニケーションを通じて、TanzuのOSSについてユーザー同士が交流することがTUNA-JPの目的です。</p>
-    <p>コミュニティへの参加については、以下より参加ください。</p>
-    <img src="/images/about/240px-Slack-icon-2019.svg.png" alt=slack::round link="https://tuna-fsz4514.slack.com/" width=100>
-  </div>{{ end }}
