@@ -11,6 +11,14 @@ TUNA-JP で主に対象とする OSS の一覧です。
 利用している OSS についての情報交換や交流が行って行きたいと思います。
 記載のない Tanzu が利用している OSS についても交流歓迎です。
 
+## Tanzu Community Edition
+
+{{< figure src="https://tanzucommunityedition.io/img/TCE-logo.svg" alt="Tanzu Community Edition" width=400 >}}
+[Website](https://tanzucommunityedition.io/) - [GitHub](https://github.com/vmware-tanzu/community-edition)
+
+Tanzu Community Edition (TCE) は、簡単に使い始められる Kubernetes プラットフォームです。
+一般的な Kubernetes ユーザーはもちろん、これから Kubernetes の学習を始める方でも、特にスモールな環境からスタートしたいというユーザー向けに開発されています。
+
 ## Kubernetes
 
 {{< figure src="https://github.com/kubernetes/kubernetes/raw/master/logo/logo.png" alt=Kubernetes width=200 >}}
@@ -88,4 +96,4 @@ Pinniped は Kubernetes のユーザー認証を提供します。
 
 Carvel は Kubernetes へのアプリケーションのビルド、設定、デプロイを行うためのツールです。
 
-以上
+また、上記に関わらず、ご興味のある OSS の話題も大歓迎ですので、ぜひコメントください！
