@@ -7,11 +7,11 @@ author = "Hugo Authors"
 sidebar = false
 +++
 
-###  TUNA-JPについて
-TUNA-JP とは、Tanzu Userver kNowledge Assembly Japan の略称で、Tanzu の OSS を利用するユーザーのコミュニティです。
+###  TUNA-JP　について
+TUNA-JP とは、Tanzu User kNowledge Assembly Japan の略称で、Tanzu の OSS を利用するユーザーのコミュニティです。
 勉強会や Slack でのコミュニケーションを通じて、Tanzu の OSS についてユーザー同士が交流することが TUNA-JP の目的です。
 
-### TUNA-JPに参加するには？
+### TUNA-JP　に参加するには？
 TUNA-JP での交流は Slack で行っています。
 
 Slack への参加はこちらから：
