@@ -96,4 +96,11 @@ Pinniped は Kubernetes のユーザー認証を提供します。
 
 Carvel は Kubernetes へのアプリケーションのビルド、設定、デプロイを行うためのツールです。
 
+## Cartographer
+
+{{< figure src="https://cartographer.sh/img/cartographer-logo.svg" alt=Cartographer width=500 >}}
+[Website](https://cartographer.sh/) - [GitHub](https://github.com/vmware-tanzu/cartographer)
+
+Cartographer は Kubernetes クラスタ上で、よりセキュアで、再利用性の高い CI/CD パイプラインの作成を支援するツールです。
+
 また、上記に関わらず、ご興味のある OSS の話題も大歓迎ですので、ぜひコメントください！
