@@ -1,6 +1,6 @@
 +++
 title = "対象のOSSについて"
-description = "Hugo, the world's fastest framework for building websites"
+description = "TUNA-JP で主に対象とする OSS の一覧です。"
 date = "2021-09-01"
 aliases = ["about-us", "about-hugo", "contact"]
 author = "Hugo Authors"
