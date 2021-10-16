@@ -1,11 +1,5 @@
-+++
-title = "開催予定のイベント"
-description = "Hugo, the world's fastest framework for building websites"
-date = "2021-09-01"
-aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
-sidebar = false
-+++
+
++++ title = "開催予定のイベントについて" author = "Hugo Authors" description = "TUNA.JPのイベント/勉強会の予定を掲載しています。" +++
 
 開催予定のイベントについて
 
