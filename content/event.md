@@ -1,6 +1,6 @@
 +++
 title = "開催予定のイベント"
-description = "各地で開催されているTUNA.JPのイベント/勉強会の予定を掲載しています。"
+description = "イベントの予定を掲載しています。"
 date = "2021-09-01"
 aliases = ["about-us", "about-hugo", "contact"]
 author = "Hugo Authors"
