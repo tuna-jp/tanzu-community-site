@@ -61,7 +61,7 @@ enforceLightMode = false
 footerLogo = "icons/tuna-jp-footer-logo.svg"
 
 # Text for the languages menu.
-languageMenuName = "🌐"
+#languageMenuName = "🌐"
 
 # Title separator, default to |.
 # titleSeparator = "|"
