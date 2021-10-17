@@ -2,3 +2,5 @@ baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'Tanzu User kNowledge Assembly Japan'
 theme = "hugo-clarity"
+[params]
+customCSS = ["css/style.css"]
