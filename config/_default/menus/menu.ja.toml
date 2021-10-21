@@ -13,6 +13,11 @@
   url = "event/"
   weight = -108
 
+[[main]]
+  name = "リンク集"
+  url = "links/"
+  weight = -107
+
 #[[main]]
 #  name = "ブログ"
 #  url = "post/"
