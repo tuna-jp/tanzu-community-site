@@ -19,28 +19,28 @@ OSS ごとに Tanzu に関して役立つ情報が載っている Web サイト�
 - [公式サイト](https://antrea.io/)
 - [GitHub](https://github.com/antrea-io/antrea)
 - [ブログ](https://antrea.io/blog/)
-- [Antrea – Yet Another CNI Plug-in for Kubernetes](https://blog.shin.do/2020/01/antrea-yet-another-cni-plugin-for-kubernetes/): 進藤さんによる Antrea の解説記事（日本語）
-- [急速に進化を続けるCNI プラグイン「Antrea」](https://onic.jp/_cms/wp-content/uploads/2020/10/ONIC-2020-Antrea-DL.pdf): 進藤さんによる Antrea の解説スライド（日本語）
+- [Antrea – Yet Another CNI Plug-in for Kubernetes](https://blog.shin.do/2020/01/antrea-yet-another-cni-plugin-for-kubernetes/): Antrea の解説記事（日本語）
+- [急速に進化を続けるCNI プラグイン「Antrea」](https://onic.jp/_cms/wp-content/uploads/2020/10/ONIC-2020-Antrea-DL.pdf): Antrea の解説スライド（日本語）
 
 ## Buildpacks
 - [公式サイト](https://buildpacks.io/)
 - [GitHub](https://github.com/buildpack)
 - [ブログ](https://medium.com/buildpacks)
-- [脱 Dockerfile！　Cloud Native Buildpacksとkpackを使った簡単で安全なイメージ](https://logmi.jp/tech/articles/324447): 伊藤さんによる、CloudNative Days Spring 2021 Online での発表を文字起こししたもの（日本語）
+- [脱 Dockerfile！　Cloud Native Buildpacksとkpackを使った簡単で安全なイメージ](https://logmi.jp/tech/articles/324447): CloudNative Days Spring 2021 Online での発表を文字起こししたもの（日本語）
 
 ## Cartographer
 
 - [公式サイト](https://cartographer.sh/)
 - [GitHub](https://github.com/vmware-tanzu/cartographer)
 - [ブログ](https://cartographer.sh/blog/)
-- [Cartographer 0.0.6をkindで試す](https://ik.am/entries/668): 槙さんによる Cartographer のチュートリアル記事（日本語）
+- [Cartographer 0.0.6をkindで試す](https://ik.am/entries/668): Cartographer のチュートリアル記事（日本語）
 
 ## Carvel
 
 - [公式サイト](https://carvel.dev/)
 - [GitHub](https://github.com/vmware-tanzu/carvel)
 - [ブログ](https://carvel.dev/blog/)
-- [yttでYAML王に俺はなる！](https://docs.google.com/presentation/d/1FYbzsli4x9YJvNefbKQ8-NR3VWyC5Ou8WhKF32Cy8b4/edit#slide=id.p1): 槙さんによる ytt の紹介スライド（日本語）
+- [yttでYAML王に俺はなる！](https://docs.google.com/presentation/d/1FYbzsli4x9YJvNefbKQ8-NR3VWyC5Ou8WhKF32Cy8b4/edit#slide=id.p1): ytt の紹介スライド（日本語）
 
 ## Cluster API
 
@@ -58,7 +58,7 @@ OSS ごとに Tanzu に関して役立つ情報が載っている Web サイト�
 - [公式サイト](https://goharbor.io/)
 - [GitHub](https://github.com/goharbor)
 - [ブログ](https://goharbor.io/blog/)
-- [Helm を使ってHarbor をインストールしてみよう](https://blog.vpantry.net/2020/02/harbor-helm-install/): 馬場さんによる Harbor のインストール記事（日本語）
+- [Helm を使ってHarbor をインストールしてみよう](https://blog.vpantry.net/2020/02/harbor-helm-install/): Harbor のインストール記事（日本語）
 
 ## Octant
 
@@ -83,7 +83,7 @@ OSS ごとに Tanzu に関して役立つ情報が載っている Web サイト�
 - [公式サイト](https://velero.io/)
 - [GitHub](https://github.com/vmware-tanzu/velero)
 - [ブログ](https://velero.io/blog/)
-- [KubernetesバックアップツールVeleroとちょっとした苦労話](https://www.slideshare.net/imurata8203/kubernetesvelero): 村田さんによる Velero の解説スライド
+- [KubernetesバックアップツールVeleroとちょっとした苦労話](https://www.slideshare.net/imurata8203/kubernetesvelero): Velero の解説スライド（日本語）
 
 ## その他
 
@@ -91,5 +91,5 @@ OSS ごとに Tanzu に関して役立つ情報が載っている Web サイト�
 - [CORMACHOGAN.COM](https://cormachogan.com/): VMware の Chief Technologist である Cormac Hogan の Web サイト
 - [KubeAcademy](https://kube.academy/): Kubernetes を学べるオンラインコース。
 - [Tanzu Developer Center](https://tanzu.vmware.com/developer/): コンテナや Kubernetes の基本からベストプラクティスまで、クラウドネイティブ周辺のいろいろな情報があります。
-- [virtual pantry](https://blog.vpantry.net/): VMware の Partner Solution Architect である 馬場さんの Web サイトです。Tanzu 含め VMware 製品に関する日本語記事がたくさんあります。
-- [WILLIAM LAM](https://williamlam.com/): VMware の Senior Staff Solution Architect である William Lam の Web サイトです。Tanzu 含め VMware 製品に関する記事がたくさんあります。
+- [virtual pantry](https://blog.vpantry.net/): VMware の Partner Solution Architect である 馬場さんの Web サイトです。
+- [WILLIAM LAM](https://williamlam.com/): VMware の Senior Staff Solution Architect である William Lam の Web サイトです。
