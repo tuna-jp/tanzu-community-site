@@ -7,6 +7,11 @@ author = "Hugo Authors"
 sidebar = false
 +++
 
+{{% notice info "Upcoming Events" %}}
+**11/24 19:00** から **TUNA-JP オープニングイベント** を開催予定です。[connpass](https://tuna-jp.connpass.com/event/230479/) から参加登録できます。
+{{% /notice %}}
+
+
 ### 開催予定のイベントについて
 
 TUNA-JP のイベント、勉強会は [connpass](https://tuna-jp.connpass.com/) で管理しています。また、以下の Google カレンダーから開催日を確認できます。
