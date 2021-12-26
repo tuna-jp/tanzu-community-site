@@ -8,7 +8,7 @@ sidebar = false
 +++
 
 {{% notice info "Upcoming Events" %}}
-**11/24 19:00** から **TUNA-JP オープニングイベント** を開催予定です。[connpass](https://tuna-jp.connpass.com/event/230479/) から参加登録できます。
+**2022年 1/20(Thu) 20:00** から **TUNA-JP オープニングイベント** を開催予定です。[connpass](https://tuna-jp.connpass.com/event/234355/) から参加登録できます。
 {{% /notice %}}
 
 
