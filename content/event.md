@@ -11,4 +11,4 @@ sidebar = false
 
 TUNA-JP のイベント、勉強会は [connpass](https://tuna-jp.connpass.com/) で管理しています。また、以下の Google カレンダーから開催日を確認できます。
 
-<iframe src="https://calendar.google.com/calendar/embed?src=qr0fqljbkhuco4la42591ue5fc%40group.calendar.google.com&ctz=Asia%2FTokyo" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=0j5tilvcvaingcb2p0diu6lmfrmino74%40import.calendar.google.com&ctz=Asia%2FTokyo" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
