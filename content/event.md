@@ -1,16 +1,11 @@
 +++
 title = "開催予定のイベント"
 description = "イベントの予定を掲載しています。"
-date = "2021-09-01"
+date = "2022-08-03"
 aliases = ["about-us", "about-hugo", "contact"]
 author = "Hugo Authors"
 sidebar = false
 +++
-
-{{% notice info "Upcoming Events" %}}
-**2022年 1/20(Thu) 20:00** から **TUNA-JP オープニングイベント** を開催予定です。[connpass](https://tuna-jp.connpass.com/event/234355/) から参加登録できます。
-{{% /notice %}}
-
 
 ### 開催予定のイベントについて
 
