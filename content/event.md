@@ -9,4 +9,4 @@ sidebar = false
 
 ### 開催予定のイベントについて
 
-TUNA-JP のイベント、勉強会は [connpass](https://tuna-jp.connpass.com/) で管理しています。
+TUNA-JP のイベント、勉強会は [connpass](https://tuna-jp.connpass.com/) で管理しています
