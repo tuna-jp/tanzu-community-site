@@ -8,7 +8,7 @@ sidebar = false
 +++
 
 TUNA-JP で主に対象とする OSS の一覧です。
-利用している OSS についての情報交換や交流が行って行きたいと思います。
+利用している OSS についての情報交換や交流を行って行きたいと思います。
 記載のない Tanzu が利用している OSS についても交流歓迎です。
 
 ## Tanzu Community Edition
